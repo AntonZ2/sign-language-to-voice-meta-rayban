@@ -5,7 +5,7 @@
 ## Demo
 
 _Note that we had to record to screen using a phone as we couldn't screen record while using OBS to Open_CV_
-![demo](./assest/demo.mp4)
+[Demo](https://github.com/chitoroagad/Meta-Ray-Ban_sign-language-translate/tree/main/assest/demo.mp4)
 
 ## How
 
