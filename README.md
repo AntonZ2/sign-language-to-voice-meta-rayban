@@ -31,8 +31,9 @@ _Note that we had to record to the screen using a phone as we couldn't screen re
 1. Make a Facebook account and stream video from glasses.
 
 2. Use OBS to create a virtual monitor that contains the Facebook stream.
+   - This will be piped to OpenCV.
 
-3. Clone the repository:
+4. Clone the repository:
 ```bash
    git clone https://github.com/yourusername/sign-language-assistant.git
    cd sign-language-assistant
